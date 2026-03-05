@@ -1,0 +1,28 @@
+# Git Ignore
+
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+# Directory for instrumented libs
+coverage/
+
+# Compiled source
+dist/
+
+# Dependency directories
+jspm_packages/
+
+# Misc
+.DS_Store
+
+# Environment variables and dotenv
+.env
